@@ -208,9 +208,9 @@ h1::first-letter {
   margin-right: 5px;
 }
 /* Json sibling selector */
-h3 + p::first-line {
-  /* color: red; */
-}
+/* h3 + p::first-line {
+  color: red;
+} */
 h2 {
   position: relative;
 }
