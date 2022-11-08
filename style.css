@@ -34,10 +34,6 @@ nav {
   text-align: center;
 }
 
-article {
-  /* margin-bottom: 60px; */
-}
-
 .post-header {
   margin-bottom: 40px;
 }
@@ -352,8 +348,6 @@ aside {
 }
 article {
   row-gap: 40px;
-}
-aside {
 }
 footer {
   background-color: #1098ad;
